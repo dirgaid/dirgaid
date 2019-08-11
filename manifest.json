@@ -1,0 +1,38 @@
+{
+  "name": "dirga.id",
+  "short_name": "dirga.id",
+  "start_url": "https://www.dirga.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#49ace1",
+  "description": "Blog dirga.id - @dirgablogger Berbagi Info,Berita,Serta Tips and Trik/Cara Mengatasi Permasalahan/Tutorial Windows,Tutorial Apple iOs,Tutorial Linux,Tutorial Smartphone,Tutorial Android,Tutorial iPhone,Tutorial Seluler,Tutorial Internet,Tutorial Sosial Media,Tutorial YouTube,Tutorial Facebook,Tutorial Twitter,Tutorial Instagram,Tutorial Laptop,Tutorial Komputer,Tutorial Blogging,Tutorial Wordpress,Tutorial Game,Tutorial Adsense,Bisnis Online,Afiliasi,Asuransi dan Berbagai Hal Menarik Lainnya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-ZCrjjm2RUhQ/XU-WxpwCQJI/AAAAAAAADJY/x-zMqkdY9ncNHISoHgdeq3erihnC-8CkwCLcBGAs/s1600/favicon-48x48-dirgaid.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oQMiPm0IKmI/XU-XD0zvJiI/AAAAAAAADJg/0Ir8qeRcZ2MuoqlKMWgowkgiMJB8Lh1kQCLcBGAs/s1600/favicon-72x72-dirgaid.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7198B05fovg/XU-XLEpqVrI/AAAAAAAADJk/wNtrk_eC2wYhawN1sI2QZIqlkPg7YJW0QCLcBGAs/s1600/favicon-96x96-dirgaid.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GwIooZKr4b8/XQxwZUZUaxI/AAAAAAAACbI/9meA1D6JlcQADeDnaB0yeeUhHBg9pV2iACLcBGAs/s1600/favicon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-8vYnscdHs4U/XU-XU0dOYpI/AAAAAAAADJs/MRveorf1i84ouxVnud7-Cn6edcW0-dm4wCLcBGAs/s1600/favicon-168x168-dirgaid.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-pvsQKPVpFyM/XQxwCbrgtjI/AAAAAAAACa4/sNy0BUDnncw0LxQIkDUTihteXkBZBq6SQCLcBGAs/s1600/favicon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nLAl1LxM-U0/XU-Xew6KD1I/AAAAAAAADJ0/A4F2sLo9zRgRORQsW7wmEDnzdPEPuBQtQCLcBGAs/s1600/favicon-512-512-dirgaid.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
